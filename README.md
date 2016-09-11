@@ -1,3 +1,2 @@
 # HelloWord
-
-你们好！
+test
